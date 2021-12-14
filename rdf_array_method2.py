@@ -466,12 +466,6 @@ def main():
     print(rdf_rt[0])
 
 
-    #print(f)iiiiiiiiiiiiii(:
-       pass   # exit()
-
-if name is == "mom"
-print("code" hijiflkjregfokr4jfgoktgjfto45jt45okt3jk45ljtfjhfrikrkjftejerjkirtkuoijitifhjerg0hopjhtjhiejotjeigoutugtiojouiūiutio5jtuu8954ot8iu58ur9kt598669iuttuihv9tiorpjoreitgjogejigjtvtioejtgjtokgrtijoorokrijigirjo;vetig9grijothifgigijgjitkrdukrurijrgkjktuitrkjjigjkrtjkjkjktrkgt)
-ls
     print('Duration: {}'.format(end_time - start_time))
 
         # print("Current: %d, Peak %d" % .get_traced_memory())
